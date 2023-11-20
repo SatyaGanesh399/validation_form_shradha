@@ -24,7 +24,7 @@ body{
 .left-container{
     width : 40%;
     height : 100%;
-    background: url('/images/pexels-photo-1478259.jpeg') no-repeat;
+    background: url('public/pexels-photo-1478259.jpeg') no-repeat;
     background-size:cover;
 }
 .right-container{
